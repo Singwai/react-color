@@ -57,6 +57,7 @@ exports[`Material renders correctly 1`] = `
         }
       >
         <input
+          autoComplete="false"
           id="rc-editable-input-1"
           onBlur={[Function]}
           onChange={[Function]}
@@ -125,6 +126,7 @@ exports[`Material renders correctly 1`] = `
             }
           >
             <input
+              autoComplete="false"
               id="rc-editable-input-2"
               onBlur={[Function]}
               onChange={[Function]}
@@ -184,6 +186,7 @@ exports[`Material renders correctly 1`] = `
             }
           >
             <input
+              autoComplete="false"
               id="rc-editable-input-3"
               onBlur={[Function]}
               onChange={[Function]}
@@ -243,6 +246,7 @@ exports[`Material renders correctly 1`] = `
             }
           >
             <input
+              autoComplete="false"
               id="rc-editable-input-4"
               onBlur={[Function]}
               onChange={[Function]}

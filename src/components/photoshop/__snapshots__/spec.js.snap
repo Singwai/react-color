@@ -481,6 +481,7 @@ exports[`Photoshop renders correctly 1`] = `
               }
             >
               <input
+                autoComplete="false"
                 id="rc-editable-input-1"
                 onBlur={[Function]}
                 onChange={[Function]}
@@ -533,6 +534,7 @@ exports[`Photoshop renders correctly 1`] = `
               }
             >
               <input
+                autoComplete="false"
                 id="rc-editable-input-2"
                 onBlur={[Function]}
                 onChange={[Function]}
@@ -585,6 +587,7 @@ exports[`Photoshop renders correctly 1`] = `
               }
             >
               <input
+                autoComplete="false"
                 id="rc-editable-input-3"
                 onBlur={[Function]}
                 onChange={[Function]}
@@ -644,6 +647,7 @@ exports[`Photoshop renders correctly 1`] = `
               }
             >
               <input
+                autoComplete="false"
                 id="rc-editable-input-4"
                 onBlur={[Function]}
                 onChange={[Function]}
@@ -696,6 +700,7 @@ exports[`Photoshop renders correctly 1`] = `
               }
             >
               <input
+                autoComplete="false"
                 id="rc-editable-input-5"
                 onBlur={[Function]}
                 onChange={[Function]}
@@ -748,6 +753,7 @@ exports[`Photoshop renders correctly 1`] = `
               }
             >
               <input
+                autoComplete="false"
                 id="rc-editable-input-6"
                 onBlur={[Function]}
                 onChange={[Function]}
@@ -807,6 +813,7 @@ exports[`Photoshop renders correctly 1`] = `
               }
             >
               <input
+                autoComplete="false"
                 id="rc-editable-input-7"
                 onBlur={[Function]}
                 onChange={[Function]}
@@ -952,6 +959,7 @@ exports[`PhotoshopFields renders correctly 1`] = `
     }
   >
     <input
+      autoComplete="false"
       id="rc-editable-input-15"
       onBlur={[Function]}
       onChange={[Function]}
@@ -1004,6 +1012,7 @@ exports[`PhotoshopFields renders correctly 1`] = `
     }
   >
     <input
+      autoComplete="false"
       id="rc-editable-input-16"
       onBlur={[Function]}
       onChange={[Function]}
@@ -1056,6 +1065,7 @@ exports[`PhotoshopFields renders correctly 1`] = `
     }
   >
     <input
+      autoComplete="false"
       id="rc-editable-input-17"
       onBlur={[Function]}
       onChange={[Function]}
@@ -1115,6 +1125,7 @@ exports[`PhotoshopFields renders correctly 1`] = `
     }
   >
     <input
+      autoComplete="false"
       id="rc-editable-input-18"
       onBlur={[Function]}
       onChange={[Function]}
@@ -1167,6 +1178,7 @@ exports[`PhotoshopFields renders correctly 1`] = `
     }
   >
     <input
+      autoComplete="false"
       id="rc-editable-input-19"
       onBlur={[Function]}
       onChange={[Function]}
@@ -1219,6 +1231,7 @@ exports[`PhotoshopFields renders correctly 1`] = `
     }
   >
     <input
+      autoComplete="false"
       id="rc-editable-input-20"
       onBlur={[Function]}
       onChange={[Function]}
@@ -1278,6 +1291,7 @@ exports[`PhotoshopFields renders correctly 1`] = `
     }
   >
     <input
+      autoComplete="false"
       id="rc-editable-input-21"
       onBlur={[Function]}
       onChange={[Function]}

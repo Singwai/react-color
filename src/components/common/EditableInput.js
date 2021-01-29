@@ -143,6 +143,7 @@ export class EditableInput extends (PureComponent || Component) {
           onBlur={ this.handleBlur }
           placeholder={ this.props.placeholder }
           spellCheck="false"
+          autoComplete="false"
         />
         { this.props.label && !this.props.hideLabel ? (
           <label
